@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "600437724173",
+    "firebase_url": "https://app-usage-ed76f.firebaseio.com",
+    "project_id": "app-usage-ed76f",
+    "storage_bucket": "app-usage-ed76f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600437724173:android:8b260253456c9e7e",
+        "android_client_info": {
+          "package_name": "com.yatish.apptime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600437724173-lrvnrrkl0ntfh7v9bphdqbj0vr92alau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy78KP5yK34YntGkaQC4bJWRvIWGVBCIM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
